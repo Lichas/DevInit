@@ -1,4 +1,4 @@
-#bin/bash
+#!bin/bash
 
 # 用于 terminal 没有设置代理无法连接GitHub 的情况，注意你的短款是否正确
 # http_proxy
